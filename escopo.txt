@@ -1,0 +1,2 @@
+Escopo
+A empresa x quer realizar viagens utilizando carros voadores com o preco da viagem de até 10 dolares (necessidade do cliente)
